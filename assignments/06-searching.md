@@ -13,7 +13,7 @@
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   [DONE]  ---> Find BS soln
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [DONE]
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)[DONE]  ---> Find BS soln
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) [DONE]
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  [DONE]
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) [DONE]
