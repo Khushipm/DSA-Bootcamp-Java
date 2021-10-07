@@ -10,9 +10,9 @@
 - [Square Root](https://leetcode.com/problems/sqrtx/)  [DONE]
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   [DONE]
+- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)   [DONE]  ---> Find BS soln
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) [DONE]
-- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
+- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)[DONE]  ---> Find BS soln
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
