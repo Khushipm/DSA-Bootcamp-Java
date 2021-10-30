@@ -8,10 +8,10 @@
 
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) [DONE]
-- [Majority Element](https://leetcode.com/problems/majority-element/)[DONE]
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)[DONE]
-- [Missing Number](https://leetcode.com/problems/missing-number/)[DONE]
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Majority Element](https://leetcode.com/problems/majority-element/) [DONE]
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [DONE]
+- [Missing Number](https://leetcode.com/problems/missing-number/) [DONE]
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [DONE]
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
