@@ -17,7 +17,7 @@
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) [DONE]
-- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) [DONE]
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
