@@ -3,13 +3,6 @@
 ## NOTE
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
-
-## Mind Map
-<a href="https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb">
-	<img width="390px" height="183px" src="https://github.com/VishwaGauravIn/DSA-Bootcamp-Java/blob/main/Capture.JPG" />
-</a> 
-
-[Full Mind Map](https://whimsical.com/complete-java-dsa-bootcamp-syllabus-UiepFrvja5VatNLJgKsqXb)
   
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
@@ -46,7 +39,7 @@
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
         - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
-    - Sorting
+    - [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
@@ -60,8 +53,8 @@
     - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
 - [Maths for DSA](https://youtu.be/fzip9Aml6og)
     - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
-    - [Complete Bitwise Operators](https://www.youtube.com/watch?t=95)
-    - [Range of numbers](https://www.youtube.com/watch?t=4169)
+    - [Complete Bitwise Operators](https://youtu.be/fzip9Aml6og?t=95)
+    - [Range of numbers](https://youtu.be/fzip9Aml6og?t=4169)
     - [Prime numbers](https://youtu.be/lmSpZ0bjCyQ?t=57)
     - [Sieve of Eratosthenes](https://youtu.be/lmSpZ0bjCyQ?t=850)
     - [Newton's Square Root Method](https://youtu.be/lmSpZ0bjCyQ?t=1989)
@@ -71,21 +64,22 @@
     - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
     - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
     
-- [Recursion](https://youtu.be/M2uO2nMT0Bk)
+- [Recursion](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
     - [Introduction](https://youtu.be/M2uO2nMT0Bk)
     - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
     - [Why recursion?](https://youtu.be/M2uO2nMT0Bk?t=2708)
     - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
     - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
-    - Sorting:
+    - [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
         - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
         - [Quick Sort](https://www.youtube.com/watch?v=Z8svOqamag8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
     - [Backtracking](https://youtu.be/zg5v2rlV1tM)
-        - Sudoku Solver
-        - N-Queens
-        - N-Knights
-        - [Maze problems](https://www.youtube.com/watch?v=zg5v2rlV1tM&t=111s)
-    - Recursion String Problems
+        - [N-Queens](https://youtu.be/nC1rbW2YSz0)
+        - [N-Knights](https://youtu.be/nC1rbW2YSz0?t=2342)
+        - [Sudoku Solver](https://youtu.be/nC1rbW2YSz0?t=3190)
+        - [Maze problems](https://www.youtube.com/watch?v=zg5v2rlV1tM)
+    - [Recursion String Problems](https://youtu.be/gdifkIwCJyg)
+    - [Recursion Google, Amazon Questions](https://youtu.be/9ByWqPzfXDU)
     - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
     - [Recursion Pattern Problems](https://youtu.be/ymgnIIclCF0)
     - [Subset Questions](https://youtu.be/9ByWqPzfXDU)
@@ -99,7 +93,6 @@
     - [Get equation of any relation easily - best and easiest approach](https://youtu.be/mV3wrLBbuuE?t=8189)
     - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
     - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
-    - [Memory Allocation of various languages](https://youtu.be/mV3wrLBbuuE)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - Object Oriented Programming
     - Introduction
@@ -112,20 +105,19 @@
         - Encapsulation
     - Overloading & Overriding
     - Static & Non-Static
+    - Packages
     - Access Control
     - Interfaces
     - Abstract Classes
     - Singleton Class
     - final, finalize, finally
+    - Object Cloning
     - Object Class
     - Generics
     - Exception Handling
     - Collections Framework
     - Lambda Expression
     - Enums
-    - Fast IO
-    - File handling
-- Greedy Algorithms
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -179,7 +171,9 @@
     - Chaining
     - Probing
     - Huffman-Encoder
+    - Top K elements problems
 - Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
+- Greedy Algorithms
 - Tries
 - Graphs
     - Introduction
@@ -195,14 +189,19 @@
     - A* pathfinding Algorithm
 
 ### Advanced concepts apart from interviews 
+- Fast IO
+- File handling
 - Bitwise + DP
 - Extended Euclidean algorithm
 - Modulo Multiplicative Inverse
 - Linear Diophantine Equations
 - Matrix Exponentiation
 - Mathematical Expectation
+- Catalan Numbers
 - Fermat’s Theorem
 - Wilson's Theorem
+- Euler's Theorem
 - Lucas Theorem
 - Chinese Remainder Theorem
+- Euler Totient
 - NP-Completeness
