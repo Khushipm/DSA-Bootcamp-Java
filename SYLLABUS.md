@@ -94,7 +94,7 @@
     - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
     - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
-- Object Oriented Programming
+- [Object Oriented Programming](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
     - Introduction
     - Classes & its instances
     - this keyword in Java
@@ -118,6 +118,12 @@
     - Collections Framework
     - Lambda Expression
     - Enums
+- Linked List
+    - Introduction
+    - Fast and slow pointer
+    - Cycle Detection
+    - Single and Doubly LinkedList
+    - Reversal of LinkedList
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -125,12 +131,6 @@
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Linked List
-    - Introduction
-    - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -205,3 +205,4 @@
 - Chinese Remainder Theorem
 - Euler Totient
 - NP-Completeness
+- Multithreading
