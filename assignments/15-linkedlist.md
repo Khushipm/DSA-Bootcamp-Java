@@ -9,6 +9,8 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
+- [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
@@ -27,9 +29,12 @@
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 
 ## Hard
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
 - [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
+- [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`
+- [Design Skiplist](https://leetcode.com/problems/design-skiplist/) `leetcode`
